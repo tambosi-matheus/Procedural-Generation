@@ -538,12 +538,12 @@ MonoBehaviour:
     maxDepth: 15
     prefab: {fileID: 8760021398574095242, guid: ae42e9a22a5aa1140a9c2ef70ca7cd12,
       type: 3}
-    probability: 0.117
+    probability: 0.246
   - minDepth: 4
     maxDepth: 15
     prefab: {fileID: 6083847246575646098, guid: 95f1cb499e5ebb243bfb8aac89d65653,
       type: 3}
-    probability: 0.948
+    probability: 0.737
   depth: 15
   gridSize: 30
   parent: {fileID: 586625751}
